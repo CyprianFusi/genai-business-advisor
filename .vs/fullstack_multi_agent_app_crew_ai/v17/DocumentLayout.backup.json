@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\backend\\agents.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\agents.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\backend\\api.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\api.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\hooks\\useCrewOutput.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\hooks\\useCrewOutput.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\InputSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\InputSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\FinalOutput.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\FinalOutput.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "agents.py",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\backend\\agents.py",
+              "RelativeDocumentMoniker": "backend\\agents.py",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\backend\\agents.py",
+              "RelativeToolTip": "backend\\agents.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-17T21:24:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "useCrewOutput.tsx",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\hooks\\useCrewOutput.tsx",
+              "RelativeDocumentMoniker": "frontend\\hooks\\useCrewOutput.tsx",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\hooks\\useCrewOutput.tsx",
+              "RelativeToolTip": "frontend\\hooks\\useCrewOutput.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T20:49:29.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\layout.tsx",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\app\\layout.tsx",
+              "RelativeToolTip": "frontend\\app\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T20:21:59.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.tsx",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\Header.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\Header.tsx",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\Header.tsx",
+              "RelativeToolTip": "frontend\\components\\Header.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T20:21:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputSection.tsx",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\InputSection.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\InputSection.tsx",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\InputSection.tsx",
+              "RelativeToolTip": "frontend\\components\\InputSection.tsx",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T20:21:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "page.tsx",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\app\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\page.tsx",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\app\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T20:20:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinalOutput.tsx",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\FinalOutput.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\FinalOutput.tsx",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\frontend\\components\\FinalOutput.tsx",
+              "RelativeToolTip": "frontend\\components\\FinalOutput.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-17T10:54:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api.py",
+              "DocumentMoniker": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\backend\\api.py",
+              "RelativeDocumentMoniker": "backend\\api.py",
+              "ToolTip": "D:\\Documents\\ml_python_courses\\genAI_bootcamp_2025\\level3_llm_apps_pro\\ai_agents\\multi_agents_llm_app\\multi_agents_app_with_crew_ai\\fullstack_multi_agent_app_crew_ai\\backend\\api.py",
+              "RelativeToolTip": "backend\\api.py",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-17T10:41:41.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
