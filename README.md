@@ -16,7 +16,7 @@ A sophisticated multi-agent system that analyzes your business operations and pr
 ![Next.js](https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js)
 ![Flask](https://img.shields.io/badge/Backend-Flask-blue?style=for-the-badge&logo=flask)
 
-# Demo
+# Screenshots
 ![BIZ Demo](assets/ui_1.png)
 ![BIZ Demo](assets/ui_2.png)
 ![BIZ Demo](assets/ui_3.png)
